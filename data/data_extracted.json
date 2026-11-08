@@ -1,0 +1,312 @@
+[
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-01",
+    "temp_max_c": 13.5,
+    "temp_min_c": 11.3,
+    "precipitacion_mm": 1.4,
+    "viento_max_kmh": 32.0,
+    "temp_media_c": 12.4,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-02",
+    "temp_max_c": 12.4,
+    "temp_min_c": 10.6,
+    "precipitacion_mm": 0.2,
+    "viento_max_kmh": 25.4,
+    "temp_media_c": 11.5,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-03",
+    "temp_max_c": 13.7,
+    "temp_min_c": 10.7,
+    "precipitacion_mm": 10.6,
+    "viento_max_kmh": 25.7,
+    "temp_media_c": 12.2,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-04",
+    "temp_max_c": 16.5,
+    "temp_min_c": 12.5,
+    "precipitacion_mm": 0.0,
+    "viento_max_kmh": 20.9,
+    "temp_media_c": 14.5,
+    "llovio": false
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-05",
+    "temp_max_c": 17.6,
+    "temp_min_c": 11.7,
+    "precipitacion_mm": 0.0,
+    "viento_max_kmh": 16.9,
+    "temp_media_c": 14.6,
+    "llovio": false
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-06",
+    "temp_max_c": 16.5,
+    "temp_min_c": 11.9,
+    "precipitacion_mm": 0.0,
+    "viento_max_kmh": 21.5,
+    "temp_media_c": 14.2,
+    "llovio": false
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-07",
+    "temp_max_c": 18.4,
+    "temp_min_c": 14.4,
+    "precipitacion_mm": 42.9,
+    "viento_max_kmh": 26.5,
+    "temp_media_c": 16.4,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-08",
+    "temp_max_c": 16.3,
+    "temp_min_c": 13.9,
+    "precipitacion_mm": 12.9,
+    "viento_max_kmh": 26.4,
+    "temp_media_c": 15.1,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-09",
+    "temp_max_c": 14.1,
+    "temp_min_c": 13.2,
+    "precipitacion_mm": 1.8,
+    "viento_max_kmh": 35.2,
+    "temp_media_c": 13.6,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-10",
+    "temp_max_c": 13.6,
+    "temp_min_c": 13.0,
+    "precipitacion_mm": 1.2,
+    "viento_max_kmh": 30.5,
+    "temp_media_c": 13.3,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-11",
+    "temp_max_c": 13.4,
+    "temp_min_c": 12.6,
+    "precipitacion_mm": 1.0,
+    "viento_max_kmh": 24.5,
+    "temp_media_c": 13.0,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-12",
+    "temp_max_c": 14.4,
+    "temp_min_c": 12.5,
+    "precipitacion_mm": 0.9,
+    "viento_max_kmh": 29.0,
+    "temp_media_c": 13.4,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-13",
+    "temp_max_c": 15.1,
+    "temp_min_c": 13.9,
+    "precipitacion_mm": 1.5,
+    "viento_max_kmh": 27.9,
+    "temp_media_c": 14.5,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-14",
+    "temp_max_c": 15.5,
+    "temp_min_c": 14.8,
+    "precipitacion_mm": 2.0,
+    "viento_max_kmh": 23.0,
+    "temp_media_c": 15.2,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-15",
+    "temp_max_c": 15.4,
+    "temp_min_c": 14.4,
+    "precipitacion_mm": 1.4,
+    "viento_max_kmh": 29.2,
+    "temp_media_c": 14.9,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-16",
+    "temp_max_c": 14.7,
+    "temp_min_c": 12.6,
+    "precipitacion_mm": 4.6,
+    "viento_max_kmh": 35.2,
+    "temp_media_c": 13.6,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-17",
+    "temp_max_c": 12.7,
+    "temp_min_c": 11.5,
+    "precipitacion_mm": 1.8,
+    "viento_max_kmh": 34.1,
+    "temp_media_c": 12.1,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-18",
+    "temp_max_c": 12.7,
+    "temp_min_c": 11.5,
+    "precipitacion_mm": 0.6,
+    "viento_max_kmh": 29.3,
+    "temp_media_c": 12.1,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-19",
+    "temp_max_c": 13.1,
+    "temp_min_c": 11.0,
+    "precipitacion_mm": 0.0,
+    "viento_max_kmh": 18.5,
+    "temp_media_c": 12.0,
+    "llovio": false
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-20",
+    "temp_max_c": 14.9,
+    "temp_min_c": 9.9,
+    "precipitacion_mm": 0.0,
+    "viento_max_kmh": 31.8,
+    "temp_media_c": 12.4,
+    "llovio": false
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-21",
+    "temp_max_c": 17.9,
+    "temp_min_c": 11.6,
+    "precipitacion_mm": 0.2,
+    "viento_max_kmh": 31.0,
+    "temp_media_c": 14.8,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-22",
+    "temp_max_c": 19.6,
+    "temp_min_c": 13.6,
+    "precipitacion_mm": 6.7,
+    "viento_max_kmh": 27.4,
+    "temp_media_c": 16.6,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-23",
+    "temp_max_c": 19.3,
+    "temp_min_c": 15.8,
+    "precipitacion_mm": 4.0,
+    "viento_max_kmh": 22.3,
+    "temp_media_c": 17.6,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-24",
+    "temp_max_c": 16.0,
+    "temp_min_c": 13.8,
+    "precipitacion_mm": 1.0,
+    "viento_max_kmh": 33.3,
+    "temp_media_c": 14.9,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-25",
+    "temp_max_c": 13.8,
+    "temp_min_c": 12.2,
+    "precipitacion_mm": 3.1,
+    "viento_max_kmh": 32.1,
+    "temp_media_c": 13.0,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-26",
+    "temp_max_c": 13.3,
+    "temp_min_c": 11.8,
+    "precipitacion_mm": 0.2,
+    "viento_max_kmh": 17.4,
+    "temp_media_c": 12.6,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-27",
+    "temp_max_c": 14.8,
+    "temp_min_c": 9.7,
+    "precipitacion_mm": 0.2,
+    "viento_max_kmh": 18.4,
+    "temp_media_c": 12.2,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-28",
+    "temp_max_c": 15.9,
+    "temp_min_c": 10.3,
+    "precipitacion_mm": 0.0,
+    "viento_max_kmh": 16.9,
+    "temp_media_c": 13.1,
+    "llovio": false
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-29",
+    "temp_max_c": 17.1,
+    "temp_min_c": 12.2,
+    "precipitacion_mm": 5.8,
+    "viento_max_kmh": 23.5,
+    "temp_media_c": 14.6,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-30",
+    "temp_max_c": 17.5,
+    "temp_min_c": 13.9,
+    "precipitacion_mm": 13.1,
+    "viento_max_kmh": 20.0,
+    "temp_media_c": 15.7,
+    "llovio": true
+  },
+  {
+    "ciudad": "Montevideo",
+    "fecha": "2026-10-31",
+    "temp_max_c": 18.5,
+    "temp_min_c": 14.0,
+    "precipitacion_mm": 14.2,
+    "viento_max_kmh": 25.7,
+    "temp_media_c": 16.2,
+    "llovio": true
+  }
+]
