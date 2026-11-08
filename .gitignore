@@ -1,0 +1,9 @@
+# Variables de entorno (credenciales y configuración local)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
